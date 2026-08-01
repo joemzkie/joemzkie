@@ -44,7 +44,7 @@ Reply from 185.199.108.153: bytes=32 time=19ms TTL=56
 Reply from 185.199.108.153: bytes=32 time=20ms TTL=56
 Reply from 185.199.108.153: bytes=32 time=18ms TTL=56
 
-Portfolio endpoint: https://joemzkie.github.io/Portfolio---joem/
+Portfolio endpoint: https://joemzkie.github.io/Personal_portfolio/
 ```
 
 [Open my portfolio](https://joemzkie.github.io/Personal_portfolio/)
