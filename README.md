@@ -5,7 +5,7 @@ Microsoft Windows [Version 10.0.22631.3880]
 PS C:\Users\joem> whoami.exe
 
 Name:    Joem
-Status:  Software Engineer (Graduating Soon)
+Status:  Software Engineer (Computer Science Graduate)
 Profile: Results-oriented, decisive builder
 Focus:   High-performance backend architecture & typed modern frontends
 
@@ -47,4 +47,4 @@ Reply from 185.199.108.153: bytes=32 time=18ms TTL=56
 Portfolio endpoint: https://joemzkie.github.io/Portfolio---joem/
 ```
 
-[Open my portfolio](https://joemzkie.github.io/Portfolio---joem/)
+[Open my portfolio](https://joemzkie.github.io/Personal_portfolio/)
