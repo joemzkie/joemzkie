@@ -1,50 +1,62 @@
-```powershell
-Microsoft Windows [Version 10.0.22631.3880]
-(c) Microsoft Corporation. All rights reserved.
+<div align="center">
 
-PS C:\Users\joem> whoami.exe
+# ✦ THE DATA ARCHITECT ✦
+### DATA ENGINEER · BUILDER OF ORDER FROM CHAOS
 
-Name:    Joem
-Status:  Software Engineer (Computer Science Graduate)
-Profile: Results-oriented, decisive builder
-Focus:   High-performance backend architecture & typed modern frontends
+`PYTHON`　`SQL`　`POSTGRESQL`　`DATA QUALITY`
 
-PS C:\Users\joem> Get-TechStack | Format-Table
+*“Raw data is disorder. Structure is a decision. Reliability is the result.”*
 
-Category               Technologies
---------               ------------
-Core Backend           Python, C++, FastAPI, Pydantic
-Data & Storage         PostgreSQL, SQLAlchemy, Alembic
-Frontend               React, TypeScript
-Ops & Orchestration    Docker, Docker Compose, n8n, WSL
+</div>
 
-PS C:\Users\joem> cat .\SystemDesign_Philosophy.txt
+---
 
-I build systems based on trade-offs and delegation. I combine Python and FastAPI for rapid API routing, while
-delegating CPU-heavy mathematical computations to C++ (via pybind11) for lightning-fast execution. I utilize
-n8n for automated workflow orchestration and strictly enforce type safety across the entire stack using
-TypeScript on the client and Pydantic on the server.
+## 〔 THE INTRODUCTION 〕
 
-PS C:\Users\joem> dir .\Projects
+I am a **Data Engineer** with a fixation on making data dependable.
 
-    Directory: C:\Users\joem\Projects
+I work to turn scattered, inconsistent information into structured, trustworthy data that people and systems can rely on. My approach is deliberate: understand the source, respect the shape of the data, validate every transformation, and make the result maintainable.
 
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
--a----        07/26/2026  09:41 PM      1,248,768 GYRSystem_NLP.exe
-                                              Resume parsing system using TF-IDF, SBERT, XGBoost
--a----        07/30/2026  11:08 AM        842,240 Quant_StockTracker.dll
-                                              Live market tracker using Python ingestion, C++ math
+Because data is not valuable merely because it exists. It becomes valuable when it can be trusted.
 
-PS C:\Users\joem> ping portfolio -t
+## 〔 THE DOMAIN 〕
 
-Pinging joemzkie.github.io [185.199.108.153] with 32 bytes of data:
-Reply from 185.199.108.153: bytes=32 time=21ms TTL=56
-Reply from 185.199.108.153: bytes=32 time=19ms TTL=56
-Reply from 185.199.108.153: bytes=32 time=20ms TTL=56
-Reply from 185.199.108.153: bytes=32 time=18ms TTL=56
+- **Data Engineering** — building and maintaining the foundations that move data from source to destination.
+- **Data Transformation** — shaping raw records into consistent, useful datasets.
+- **Data Quality** — investigating missing values, duplicates, inconsistencies, and suspicious patterns.
+- **SQL & Relational Data** — querying, exploring, and working with structured databases.
+- **Python Automation** — using code to make repeatable data work more efficient and reliable.
 
-Portfolio endpoint: https://joemzkie.github.io/Personal_portfolio/
-```
+## 〔 THE ARSENAL 〕
 
-[Open my portfolio](https://joemzkie.github.io/Personal_portfolio/)
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+## 〔 THE DOCTRINE 〕
+
+> **Observe before altering. Validate before trusting. Understand before optimizing.**
+
+I believe good data engineering is not about moving the largest volume of data or writing the most complicated query. It is about building systems whose behavior can be explained, whose outputs can be trusted, and whose foundations can withstand change.
+
+Every record has a source. Every transformation has a consequence. Every data quality issue has a reason worth investigating.
+
+## 〔 THE DIRECTIVE 〕
+
+To keep improving as an engineer: deepen my understanding of data architecture, strengthen the reliability of data workflows, and build systems that make information more useful to the people who depend on it.
+
+<div align="center">
+
+---
+
+### ✦ DISCIPLINE IN THE PIPELINE. PRECISION IN THE DATA. ✦
+
+<sub>DATA ENGINEER · ALWAYS INVESTIGATING · ALWAYS REFINING</sub>
+
+</div>
